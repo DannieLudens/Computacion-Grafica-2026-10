@@ -1,12 +1,19 @@
 # Computación-Gráfica-2026-10
 
-|Integrantes de Grupo|
+
+|_**Integrantes de Equipo**_|
 |:--|
 |• Maria Paulina Serna|
 |• Sofia Gonzalez Hernandez|
 |• Karen Correa Alvarez|
 |• Tomas Mejia Murillo|
 |• Daniel Esteban Ardila Alzate|
+
+|_**Profesor**_|
+|:--|
+Sergio Felipe Peñaloza Herrera <br> @chechoEducativo <br> sergio.penaloza@upb.edu.co|
+
+---
 
 <details>
   <summary>Versión de Unity y módulos instalados</summary><br>
