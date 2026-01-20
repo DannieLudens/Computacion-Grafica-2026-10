@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 2fdde1efda7753c4392d62ee826633fa
+  productGUID: 598d973629940b645a0da978e828cc74
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Proyecto1_CompGrafica
+  productName: Actividad_1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Proyecto1_CompGrafica
+  metroPackageName: Actividad_1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Proyecto1_CompGrafica
+  metroApplicationDescription: Actividad_1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -921,10 +921,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8332956e-a27a-4233-8a5b-04f66805653b
+  cloudProjectId: 8825b1da-76bf-42e5-b77c-58c88189420d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Proyecto1_CompGrafica 2026-01-20_07-15-43
+  projectName: Actividad_1
   organizationId: daniel_ea
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
