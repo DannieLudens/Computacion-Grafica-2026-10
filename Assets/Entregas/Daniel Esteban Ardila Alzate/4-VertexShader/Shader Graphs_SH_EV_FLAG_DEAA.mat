@@ -59,7 +59,7 @@ Material:
     - _QueueOffset: 0
     - _WaveAmplitude: 0.38
     - _WaveFrecuency: 2
-    - _WaveSpeed: -1
+    - _WaveSpeed: -1.71
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
