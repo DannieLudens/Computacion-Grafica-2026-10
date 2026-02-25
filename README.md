@@ -31,7 +31,7 @@ con los módulos que coinciden con los instalados en los PC del salón B9 305.
 ---
 # Entregas
 
-## 01 - Entrega de equipo: Slash
+## 01 - Entrega de equipo: Actividad Slash
 
 ### Video y Gifs
 
