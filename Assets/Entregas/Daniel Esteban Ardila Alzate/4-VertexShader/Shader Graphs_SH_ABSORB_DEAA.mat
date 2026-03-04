@@ -53,9 +53,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radius: 1.88
+    - _Radius: 0.86
     - _Test: -1.33
     m_Colors:
-    - _Center: {r: -1.6, g: 2.69, b: 0.16, a: 0}
+    - _Center: {r: -0.65, g: 1.18, b: 0.73, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
