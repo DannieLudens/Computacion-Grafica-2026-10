@@ -62,7 +62,11 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 0
     - _CastShadows: 1
+<<<<<<< Updated upstream
     - _CircleTiling: 5
+=======
+    - _CircleTilling: 5
+>>>>>>> Stashed changes
     - _Cull: 0
     - _DstBlend: 10
     - _DstBlendAlpha: 10
