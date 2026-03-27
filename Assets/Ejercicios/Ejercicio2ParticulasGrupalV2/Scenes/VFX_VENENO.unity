@@ -20077,7 +20077,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9fee987f4ed687f43b567f4487ad310c, type: 2}
+  - {fileID: 2100000, guid: 6d396478c6e1a2c4fb4a24410dd35b7b, type: 2}
   - {fileID: 2100000, guid: 74cf8c40649d3b3408cb1385d4ab387d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -20099,18 +20099,18 @@ ParticleSystemRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_MeshDistribution: 0
   m_SortMode: 0
   m_MinParticleSize: 0
   m_MaxParticleSize: 0.5
   m_CameraVelocityScale: 0
-  m_VelocityScale: 0.5
-  m_LengthScale: 2
+  m_VelocityScale: 0
+  m_LengthScale: 1
   m_SortingFudge: 0
   m_NormalDirection: 1
   m_ShadowBias: 0
-  m_RenderAlignment: 0
+  m_RenderAlignment: 2
   m_Pivot: {x: 0, y: 0, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
   m_EnableGPUInstancing: 1
@@ -30170,7 +30170,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 76.7
-  orthographic: 1
+  orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
