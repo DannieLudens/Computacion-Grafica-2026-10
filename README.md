@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/a763ea4e-37d6-4916-a9ff-8e75e10a4d0e
 
 ### Concept Art
 
-<img width="700" height="2000" src="https://github.com/user-attachments/assets/5b14f7e7-4f44-4c24-9569-d0630d2f30d9" />
+<img width="700" src="https://github.com/user-attachments/assets/5b14f7e7-4f44-4c24-9569-d0630d2f30d9" />
 
 ### Videos y Gifs
 
