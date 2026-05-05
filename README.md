@@ -3,10 +3,11 @@
 
 |_**Integrantes de Equipo**_|
 |:--|
-|• Maria Paulina Serna|
-|• Sofia Gonzalez Hernandez|
+
+https://github.com/user-attachments/assets/b1e93e7c-75e0-4abf-8f53-b827b50a51e0
+
+
 |• Karen Sofia Correa Alvarez|
-|• Tomas Mejia Murillo|
 |• Daniel Esteban Ardila Alzate|
 
 |_**Profesor**_|
@@ -63,5 +64,19 @@ https://github.com/user-attachments/assets/c759b7b4-851b-42a0-98ef-50012948ae3b
 <img width="500" src="https://github.com/user-attachments/assets/2b2885d2-df4f-411b-b0bb-753e345148fb" />
 <img width="500" src="https://github.com/user-attachments/assets/93f50c60-c5cc-4767-860d-782977460005" />
 <img width="600" src="https://github.com/user-attachments/assets/92e82560-6e84-4377-bfdb-df0057e4bd6c" />
+
+
+---
+
+## 03 - Entrega de equipo: Actividad Shaders de superficie
+
+### Videos
+
+https://github.com/user-attachments/assets/1db4dc94-a14f-4019-97e1-5d19de35ad67
+
+
+https://github.com/user-attachments/assets/005768e0-6bb1-4839-8964-80d287377649
+
+
 
 
