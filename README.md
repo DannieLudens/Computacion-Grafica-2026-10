@@ -3,10 +3,6 @@
 
 |_**Integrantes de Equipo**_|
 |:--|
-
-https://github.com/user-attachments/assets/b1e93e7c-75e0-4abf-8f53-b827b50a51e0
-
-
 |• Karen Sofia Correa Alvarez|
 |• Daniel Esteban Ardila Alzate|
 
@@ -36,12 +32,9 @@ con los módulos que coinciden con los instalados en los PC del salón B9 305.
 
 ### Video y Gifs
 
-https://github.com/user-attachments/assets/a763ea4e-37d6-4916-a9ff-8e75e10a4d0e
-
-
-|Velocidad 1x|Cámara Lenta|
-|:--|:--|
-| <img width="350" src="https://github.com/user-attachments/assets/1efd0bb5-5725-44f4-bc87-5c127cf2d648" /> | <img width="500" src="https://github.com/user-attachments/assets/966d3043-5571-4750-be54-69670439ddaf" /> |
+|Velocidad 1x|Cámara Lenta|Normal|
+|:--|:--|:--|
+| <img width="350" src="https://github.com/user-attachments/assets/1efd0bb5-5725-44f4-bc87-5c127cf2d648" /> | <img width="350" src="https://github.com/user-attachments/assets/966d3043-5571-4750-be54-69670439ddaf" /> | <video width="400" src="https://github.com/user-attachments/assets/a763ea4e-37d6-4916-a9ff-8e75e10a4d0e" /> |
 
 ---
 
@@ -78,5 +71,19 @@ https://github.com/user-attachments/assets/1db4dc94-a14f-4019-97e1-5d19de35ad67
 https://github.com/user-attachments/assets/005768e0-6bb1-4839-8964-80d287377649
 
 
+---
 
+## 04 - Entrega Final Demo técnica
+
+### Videos
+
+#### 3 Espadas
+
+|Lighting|Fire|Holy|
+|:--|:--|:--|
+|  <video width="500" src="https://github.com/user-attachments/assets/b85cf4ac-5d1c-49f8-bf75-cf19edf39f1f" /> | <video width="500" src="https://github.com/user-attachments/assets/99d005ec-8c03-4d4f-a93c-479d8e8b1f41" /> |  <video width="500" src="https://github.com/user-attachments/assets/5b1b188b-d076-414d-9e25-d4fe8976d19a" /> |
+
+#### Full Demo
+
+https://github.com/user-attachments/assets/0de7f962-b614-42be-b4f0-e0f2b708d62c
 
